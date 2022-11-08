@@ -4,7 +4,6 @@ import List from './List';
 
 function App() {
   const [people, setPeople] = useState(data);
-  console.log(people);
 
 	return (
 		<main>
